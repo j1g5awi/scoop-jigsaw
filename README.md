@@ -13,3 +13,11 @@
 | go-cqhttp         | cqhttp 的 golang 实现，轻量、原生跨平台. |
 | go-cqhttp-nightly | go-cqhttp 的 nightly 版本，不保证稳定。  |
 | **weasel**        | 【小狼毫】Rime for Windows               |
+
+### 转载软件
+
+| 软件    | 简介                                           | 原仓库            |
+| ------- | ---------------------------------------------- | ----------------- |
+| calibre | 因为原仓库默认导致路径过长无法打开所以改了下。 | [scoop-extras][1] |
+
+[1]: https://github.com/lukesampson/scoop-extras
