@@ -11,5 +11,5 @@ jobs:
     - name: Pull Request Validation
       uses: Ash258/Scoop-GithubActions@stable
       env:
-        GITH_EMAIL: youremail@email.com
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITH_EMAIL: j1g5aw@foxmail.com
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
