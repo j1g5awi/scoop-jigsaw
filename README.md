@@ -16,8 +16,8 @@
 
 ### 转载软件
 
-| 软件    | 简介                                           | 原仓库            |
-| ------- | ---------------------------------------------- | ----------------- |
-| calibre | 因为原仓库默认导致路径过长无法打开所以改了下。 | [scoop-extras][1] |
+| 软件    | 简介                                           | 原仓库                       |
+| ------- | ---------------------------------------------- | ---------------------------- |
+| calibre | 因为原仓库默认导致路径过长无法打开所以改了下。 | [scoop-extras][scoop-extras] |
 
-[1]: https://github.com/lukesampson/scoop-extras
+[scoop-extras]: https://github.com/lukesampson/scoop-extras
