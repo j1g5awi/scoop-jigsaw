@@ -4,5 +4,18 @@
     "version": "1.0.0-nightly",
     "license": "AGPL-3.0-only",
     "url": "https://github.com/j1g5awi/go-cqhttp-nightly/releases/download/v1.0.0-nightly/go-cqhttp_windows_amd64.zip",
-    "bin": "go-cqhttp.exe"
+    "hash": "6683da05bd136b01696b9fc8aedcbe56586b047fe2a08a0e752d56d655ae7e7e",
+    "bin": "go-cqhttp.exe",
+    "checkver": {
+        "url": "https://github.com/j1g5awi/go-cqhttp-nightly/releases/latest",
+        "regex": "releases/tag/([\\d.\\-a-z]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/j1g5awi/go-cqhttp-nightly/releases/download/$version/go-cqhttp_windows_amd64.zip",
+        "hash": {
+            "url": "https://github.com/j1g5awi/go-cqhttp-nightly/releases/download/$version/go-cqhttp_checksums.txt",
+            "mode": "extract",
+            "regex": "$base64 go-cqhttp_windows_amd64.zip"
+        }
+    }
 }
