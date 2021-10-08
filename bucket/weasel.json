@@ -34,5 +34,11 @@
             "WeaselServer.exe",
             "小狼毫算法服務"
         ]
-    ]
+    ],
+    "checkver": {
+        "github": "https://github.com/rime/weasel"
+    },
+    "autoupdate": {
+        "url": "https://github.com/rime/weasel/releases/download/$version/weasel-$version.0-installer.exe#/dl.7z"
+    }
 }
