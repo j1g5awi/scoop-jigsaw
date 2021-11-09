@@ -8,11 +8,14 @@
 
 加粗的软件安装时需要管理员权限
 
-| 软件              | 简介                                     |
-| ----------------- | ---------------------------------------- |
-| go-cqhttp         | cqhttp 的 golang 实现，轻量、原生跨平台. |
-| go-cqhttp-nightly | go-cqhttp 的 nightly 版本，不保证稳定。  |
-| **weasel**        | 【小狼毫】Rime for Windows               |
+| 软件              | 简介                                                  |
+| ----------------- | ----------------------------------------------------- |
+| go-cqhttp         | cqhttp 的 golang 实现，轻量、原生跨平台.              |
+| go-cqhttp-nightly | go-cqhttp 的 nightly 版本，不保证稳定。               |
+| **weasel**        | 【小狼毫】Rime for Windows                            |
+| BBDown            | 一款命令行式哔哩哔哩下载器. Bilibili Downloader.      |
+| python-poetry     | Python dependency management and packaging made easy. |
+
 
 ### 转载软件
 
