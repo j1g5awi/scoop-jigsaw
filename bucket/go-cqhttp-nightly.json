@@ -7,13 +7,13 @@
     "hash": "4a1f1bea3b0d47fadccb05e4a25ef4a3f96f4618d692102bfe947ad9f99a0b5d",
     "bin": "go-cqhttp.exe",
     "checkver": {
-        "url": "https://github.com/j1g5awi/go-cqhttp-nightly/releases/latest",
+        "url": "https://github.com/5p1ral/go-cqhttp-nightly/releases/latest",
         "regex": "releases/tag/([\\d.\\-a-z]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/j1g5awi/go-cqhttp-nightly/releases/download/$version/go-cqhttp_windows_amd64.zip",
+        "url": "https://github.com/5p1ral/go-cqhttp-nightly/releases/download/$version/go-cqhttp_windows_amd64.zip",
         "hash": {
-            "url": "https://github.com/j1g5awi/go-cqhttp-nightly/releases/download/$version/go-cqhttp_checksums.txt",
+            "url": "https://github.com/5p1ral/go-cqhttp-nightly/releases/download/$version/go-cqhttp_checksums.txt",
             "mode": "extract",
             "regex": "$base64 go-cqhttp_windows_amd64.zip"
         }
