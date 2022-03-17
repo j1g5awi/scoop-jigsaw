@@ -1,9 +1,9 @@
 {
-    "version": "1.2.0a2",
+    "version": "1.2.0-beta.1",
     "homepage": "https://python-poetry.org/",
     "description": "Python dependency management and packaging made easy.",
     "url": "https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py",
-    "hash": "053f0133107dc962008b67bba9c673c223d2279c926bc41874c2881d98a58516",
+    "hash": "5c812616fb08ce8d72905ea24dd1a9be1f38717408377a8656efc4b5648c93cb",
     "license": "MIT",
     "depends": "python",
     "env_set": {
