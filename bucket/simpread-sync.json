@@ -10,6 +10,6 @@
         "github": "https://github.com/j1g5awi/simpread-sync"
     },
     "autoupdate": {
-        "url": "hhttps://github.com/j1g5awi/simpread-sync/releases/download/v$version/simpread-sync_windows_amd64.zip"
+        "url": "https://github.com/j1g5awi/simpread-sync/releases/download/v$version/simpread-sync_windows_amd64.zip"
     }
 }
