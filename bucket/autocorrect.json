@@ -1,10 +1,10 @@
 {
-    "version": "1.6.1",
+    "version": "1.7.0",
     "description": "A linter and formatter for help you improve copywriting, to correct spaces, punctuations between CJK (Chinese, Japanese, Korean).",
     "homepage": "https://huacnlee.com/autocorrect/",
     "license": "MIT",
-    "url": "https://github.com/huacnlee/autocorrect/releases/download/v1.6.1/autocorrect-windows-amd64.tar.gz#/dl.gz",
-    "hash": "2d2ab0656439ba50bcbb9d9565a45a152a33695dc097e9d160901e9d3c4ec3fe",
+    "url": "https://github.com/huacnlee/autocorrect/releases/download/v1.7.0/autocorrect-windows-amd64.tar.gz#/dl.gz",
+    "hash": "fb7f7755d91e41b97b909af165b200f885a3cbc6096cbb11e9e7e147d0b0ffd0",
     "bin": "autocorrect.exe",
     "checkver": {
         "url": "https://api.github.com/repos/huacnlee/autocorrect/releases/latest",
