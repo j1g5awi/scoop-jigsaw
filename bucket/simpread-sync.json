@@ -1,10 +1,10 @@
 {
-    "version": "0.6.5",
+    "version": "0.6.6",
     "description": "简悦 · 同步助手 · 命令行 · 伪",
     "homepage": "https://github.com/j1g5awi/simpread-sync",
     "license": "MIT",
-    "url": "https://github.com/j1g5awi/simpread-sync/releases/download/v0.6.5/simpread-sync_windows_amd64.zip",
-    "hash": "3dbf6147a4fe5b67b797a5e28919af89106c1f6529a31fb95f82512a8c4a21b3",
+    "url": "https://github.com/j1g5awi/simpread-sync/releases/download/v0.6.6/simpread-sync_windows_amd64.zip",
+    "hash": "512effac136e16661edb5e65167a626feb24ac3b81bc834186dc9d071ed7ee0f",
     "bin": "simpread-sync.exe",
     "checkver": {
         "github": "https://github.com/j1g5awi/simpread-sync"
