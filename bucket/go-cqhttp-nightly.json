@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/Mrs4s/go-cqhttp",
     "description": "基于 Mirai 以及 MiraiGo 的 OneBot Golang 原生实现。",
-    "version": "22.11.30",
+    "version": "22.12.01",
     "license": "AGPL-3.0-only",
-    "url": "https://github.com/5p1ral/go-cqhttp-nightly/releases/download/22.11.30/go-cqhttp_windows_amd64.zip",
-    "hash": "f5967524a6da52e2de4b9e7f7c4d75e9a0a61918e576d332cb3030730688aec2",
+    "url": "https://github.com/5p1ral/go-cqhttp-nightly/releases/download/22.12.01/go-cqhttp_windows_amd64.zip",
+    "hash": "034620c89c4b0e5511702e93ee147fb560aa155ad590cb83d8131738f573d193",
     "bin": "go-cqhttp.exe",
     "checkver": {
         "url": "https://github.com/5p1ral/go-cqhttp-nightly/releases/latest",
