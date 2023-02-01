@@ -4,6 +4,7 @@
     "version": "0.14.3",
     "license": "GPL-3.0-only",
     "url": "https://github.com/fxliang/weasel/releases/download/0.14.3_dev_0.98/weasel-0.14.3.7z",
+    "extract_dir": "weasel-0.14.3",
     "hash": "de63dc2ef45d5b094a239fc704051270f3185bf9e883132532b7e17d2fdaf81b",
     "post_install": [
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
@@ -39,7 +40,6 @@
         "github": "https://github.com/fxliang/weasel"
     },
     "autoupdate": {
-        "url": "https://github.com/fxliang/weasel/releases/download/$version/weasel-0.14.3.7z
-"
+        "url": "https://github.com/fxliang/weasel/releases/download/$version/weasel-0.14.3.7z"
     }
 }
