@@ -37,9 +37,10 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/fxliang/weasel"
+        "url": "https://github.com/fxliang/weasel/releases/latest",
+        "regex": "releases/tag/([\\d.\\-a-z]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/fxliang/weasel/releases/download/$version/weasel-0.14.3.7z"
+        "url": "https://github.com/fxliang/weasel/releases/download/$version/weasel-0.14.3.7z",
     }
 }
