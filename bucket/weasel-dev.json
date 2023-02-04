@@ -1,7 +1,7 @@
 {
     "homepage": "https://rime.im/",
     "description": "【小狼毫】Rime for Windows",
-    "version": "0.14.3",
+    "version": "0.14.3_dev_0.98",
     "license": "GPL-3.0-only",
     "url": "https://github.com/fxliang/weasel/releases/download/0.14.3_dev_0.98/weasel-0.14.3.7z",
     "extract_dir": "weasel-0.14.3",
@@ -38,7 +38,7 @@
     ],
     "checkver": {
         "url": "https://github.com/fxliang/weasel/releases/latest",
-        "regex": "releases/tag/([\\d.\\-a-z]+)"
+        "regex": "releases/tag/([\\d.\\-_a-z]+)"
     },
     "autoupdate": {
         "url": "https://github.com/fxliang/weasel/releases/download/$version/weasel-0.14.3.7z"
