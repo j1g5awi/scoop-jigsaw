@@ -8,9 +8,7 @@
     "hash": "e1565a8d73392b19b86824801140c697e3010de0ce0187e9e6f6a91ad0c35c1e",
     "post_install": [
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
-        "Add-Content -Path \"$dir\\rime-install-config.bat\" -Value \"
-
-set rime_dir=$persist_dir\""
+        "Add-Content -Path \"$dir\\rime-install-config.bat\" -Value \"set rime_dir=$persist_dir\""
     ],
     "installer": {
         "script": [
