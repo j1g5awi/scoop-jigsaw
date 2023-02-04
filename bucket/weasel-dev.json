@@ -5,10 +5,12 @@
     "license": "GPL-3.0-only",
     "url": "https://github.com/fxliang/weasel/releases/download/0.14.3_dev_0.98/weasel-0.14.3.7z",
     "extract_dir": "weasel-0.14.3",
-    "hash": "de63dc2ef45d5b094a239fc704051270f3185bf9e883132532b7e17d2fdaf81b",
+    "hash": "e1565a8d73392b19b86824801140c697e3010de0ce0187e9e6f6a91ad0c35c1e",
     "post_install": [
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
-        "Add-Content -Path \"$dir\\rime-install-config.bat\" -Value \"\n\nset rime_dir=$persist_dir\""
+        "Add-Content -Path \"$dir\\rime-install-config.bat\" -Value \"
+
+set rime_dir=$persist_dir\""
     ],
     "installer": {
         "script": [
@@ -41,6 +43,6 @@
         "regex": "releases/tag/([\\d.\\-a-z]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/fxliang/weasel/releases/download/$version/weasel-0.14.3.7z",
+        "url": "https://github.com/fxliang/weasel/releases/download/$version/weasel-0.14.3.7z"
     }
 }
